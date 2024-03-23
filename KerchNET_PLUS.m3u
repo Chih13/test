@@ -1,5 +1,5 @@
 ﻿#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz" deinterlace=1 aspect-ratio=none cache=1000 
-#EXTINF:0 tvg-name="Первый канал" tvg-logo="Первый канал" tvg-shift=0 Первый
+#EXTINF:0 tvg-name="Первый канал" tvg-logo="Первый канал" tvg-shift=0,Первый
 #EXTGRP:KerchNET
 http://ip2.kerchnet.ru:8090/Pervyy_kanal
 #EXTINF:-1,Россия 1
